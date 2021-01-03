@@ -1,0 +1,18 @@
+.Form {
+    max-width: 70%;
+    margin: auto;
+}
+
+.Form > * {
+    margin-bottom: 10px;
+}
+
+.Form-error {
+    color: brown;
+}
+
+.Form-title {
+    font-size: 2em;
+    text-align: center;
+    font-family: 'JetBrainsMono';
+}
